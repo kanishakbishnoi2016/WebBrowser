@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebViewapp</string>
+    <string name="uri_default">www.apple.com</string>
+    <string name="send">Send</string>
+</resources>
